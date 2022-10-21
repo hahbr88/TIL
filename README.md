@@ -6,9 +6,15 @@ Today I Learned
   - Python
   - JavaScript
   - HTML, CSS
+  
+- FrontEnd
+
+- BackEnd
+
 - IDE
   - PyCharm
   - Visual Studio Code
+
 - DB
-- MongoDB
-- MySQL
+  - MongoDB
+  - MySQL
